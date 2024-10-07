@@ -1,7 +1,7 @@
 # EX03-Enumeration
 Enumeration Techniques
 
-## Explore Google hacking and enumeration 
+## Explore Google hacking and enumeration:
 
 ## AIM:
 
@@ -66,9 +66,9 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ![alt text](screenshot/img-7.png)
 
  
-# DNS Enumeration
+# DNS Enumeration:
 
-## DNS Recon
+## DNS Recon:
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
@@ -81,10 +81,10 @@ Top level domain expansion
 
 ![alt text](screenshot/img-10.png)
 
-## smtp-user-enum
+## smtp-user-enum:
 ![alt text](screenshot/img-11.png)
 
-## nmap –script smtp-enum-users.nse <hostname>
+## nmap –script smtp-enum-users.nse <hostname>:
 ![alt text](screenshot/img-12.png)
   
 

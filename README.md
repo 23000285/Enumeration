@@ -32,38 +32,38 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 ## OUTPUT:
-![alt text](screenshot/img-1.png)
+![alt text](img-1.png)
 
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 ## OUTPUT:
-![alt text](screenshot/img-2.png)
+![alt text](img-2.png)
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 ## OUTPUT:
-![alt text](screenshot/img-3.png)
+![alt text](img-3.png)
 
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 ## OUTPUT:
-![alt text](screenshot/img-4.png)
+![alt text](img-4.png)
 
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 ## OUTPUT:
-![alt text](screenshot/img-5.png)
+![alt text](img-5.png)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 ## OUTPUT:
-![alt text](screenshot/img-6.png)
+![alt text](img-6.png)
 
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 ## OUTPUT:
-![alt text](screenshot/img-7.png)
+![alt text](img-7.png)
 
  
 # DNS Enumeration:
@@ -75,17 +75,17 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-![alt text](screenshot/img-8.png)
+![alt text](img-8.png)
 
-![alt text](screenshot/img-9.png)
+![alt text](img-9.png)
 
-![alt text](screenshot/img-10.png)
+![alt text](img-10.png)
 
 ## smtp-user-enum:
-![alt text](screenshot/img-11.png)
+![alt text](img-11.png)
 
 ## nmap –script smtp-enum-users.nse <hostname>:
-![alt text](screenshot/img-12.png)
+![alt text](img-12.png)
   
 
 ## RESULT:
